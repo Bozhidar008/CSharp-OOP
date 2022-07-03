@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp3.1\SingleInheritance.genruntimeconfig.cache
