@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
