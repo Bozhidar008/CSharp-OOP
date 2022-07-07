@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
