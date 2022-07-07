@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.genruntimeconfig.cache
