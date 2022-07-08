@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\bin\Debug\netcoreapp3.1\Animalfarm.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Encapsulation\Animalfarm\obj\Debug\netcoreapp3.1\Animalfarm.genruntimeconfig.cache
