@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.exe
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.dll
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\bin\Debug\netcoreapp3.1\MultipleImplementation.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.dll
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\MultipleImplementation\obj\Debug\netcoreapp3.1\MultipleImplementation.genruntimeconfig.cache
