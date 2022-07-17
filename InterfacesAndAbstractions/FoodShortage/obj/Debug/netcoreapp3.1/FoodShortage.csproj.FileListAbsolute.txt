@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.exe
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\bin\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.dll
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\InterfacesAndAbstractions\FoodShortage\obj\Debug\netcoreapp3.1\FoodShortage.genruntimeconfig.cache
