@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\bin\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\04.WildFarm\obj\Debug\netcoreapp3.1\04.WildFarm.genruntimeconfig.cache
