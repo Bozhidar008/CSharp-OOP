@@ -1,0 +1,14 @@
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.exe
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.runtimeconfig.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.runtimeconfig.dev.json
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\bin\Debug\netcoreapp3.1\02.VehicleExtension.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.dll
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\Polymorphism\02.VehicleExtension\obj\Debug\netcoreapp3.1\02.VehicleExtension.genruntimeconfig.cache
