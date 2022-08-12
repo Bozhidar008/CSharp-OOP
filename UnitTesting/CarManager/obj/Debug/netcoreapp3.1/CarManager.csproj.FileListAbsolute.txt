@@ -1,0 +1,10 @@
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

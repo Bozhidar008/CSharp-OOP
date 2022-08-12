@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedDatabase", "Extende
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedDatabase.Tests", "ExtendedDatabase.Tests\ExtendedDatabase.Tests.csproj", "{D7E56E7D-856F-46FA-A6D7-A6E840EF6436}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager", "CarManager\CarManager.csproj", "{A272CA95-9E5B-4D2C-B2AA-5C686E690C4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager.Tests", "CarManager.Tests\CarManager.Tests.csproj", "{6B031E23-5398-4A08-B897-30D5FA71F084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D7E56E7D-856F-46FA-A6D7-A6E840EF6436}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E56E7D-856F-46FA-A6D7-A6E840EF6436}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E56E7D-856F-46FA-A6D7-A6E840EF6436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A272CA95-9E5B-4D2C-B2AA-5C686E690C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A272CA95-9E5B-4D2C-B2AA-5C686E690C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A272CA95-9E5B-4D2C-B2AA-5C686E690C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A272CA95-9E5B-4D2C-B2AA-5C686E690C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B031E23-5398-4A08-B897-30D5FA71F084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B031E23-5398-4A08-B897-30D5FA71F084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B031E23-5398-4A08-B897-30D5FA71F084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B031E23-5398-4A08-B897-30D5FA71F084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

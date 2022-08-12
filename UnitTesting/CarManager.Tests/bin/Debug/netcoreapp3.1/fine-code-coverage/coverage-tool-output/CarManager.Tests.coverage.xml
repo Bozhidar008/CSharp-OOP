@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.9761" branch-rate="0.9375" version="1.9" timestamp="1660299577" lines-covered="123" lines-valid="126" branches-covered="15" branches-valid="16">
+  <sources>
+    <source>C:\Users\bojid\</source>
+  </sources>
+  <packages>
+    <package name="CarManager" line-rate="0.9726" branch-rate="0.9375" complexity="23">
+      <classes>
+        <class name="CarManager.Car" filename="source\repos\CSharp-OOP\UnitTesting\CarManager\Car.cs" line-rate="0.9726" branch-rate="0.9375" complexity="23">
+          <methods>
+            <method name="get_Make" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="set_Make" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="37" hits="27" branch="False" />
+                <line number="38" hits="27" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="43" hits="25" branch="False" />
+                <line number="44" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Model" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="50" hits="1" branch="False" />
+                <line number="51" hits="1" branch="False" />
+                <line number="52" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="set_Model" signature="(System.String)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="54" hits="25" branch="False" />
+                <line number="55" hits="25" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="56" hits="2" branch="False" />
+                <line number="57" hits="2" branch="False" />
+                <line number="60" hits="23" branch="False" />
+                <line number="61" hits="23" branch="False" />
+              </lines>
+            </method>
+            <method name="get_FuelConsumption" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="67" hits="7" branch="False" />
+                <line number="68" hits="7" branch="False" />
+                <line number="69" hits="7" branch="False" />
+              </lines>
+            </method>
+            <method name="set_FuelConsumption" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="71" hits="23" branch="False" />
+                <line number="72" hits="23" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="18" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="73" hits="2" branch="False" />
+                <line number="74" hits="2" branch="False" />
+                <line number="77" hits="21" branch="False" />
+                <line number="78" hits="21" branch="False" />
+              </lines>
+            </method>
+            <method name="get_FuelAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="84" hits="23" branch="False" />
+                <line number="85" hits="23" branch="False" />
+                <line number="86" hits="23" branch="False" />
+              </lines>
+            </method>
+            <method name="set_FuelAmount" signature="(System.Double)" line-rate="0.6666" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="88" hits="36" branch="False" />
+                <line number="89" hits="36" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="15" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="90" hits="0" branch="False" />
+                <line number="91" hits="0" branch="False" />
+                <line number="94" hits="36" branch="False" />
+                <line number="95" hits="36" branch="False" />
+              </lines>
+            </method>
+            <method name="get_FuelCapacity" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="101" hits="9" branch="False" />
+                <line number="102" hits="9" branch="False" />
+                <line number="103" hits="9" branch="False" />
+              </lines>
+            </method>
+            <method name="set_FuelCapacity" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="105" hits="21" branch="False" />
+                <line number="106" hits="21" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="18" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="107" hits="2" branch="False" />
+                <line number="108" hits="2" branch="False" />
+                <line number="111" hits="19" branch="False" />
+                <line number="112" hits="19" branch="False" />
+              </lines>
+            </method>
+            <method name="Refuel" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="4">
+              <lines>
+                <line number="116" hits="8" branch="False" />
+                <line number="117" hits="8" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="18" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="118" hits="3" branch="False" />
+                <line number="119" hits="3" branch="False" />
+                <line number="122" hits="5" branch="False" />
+                <line number="124" hits="5" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="63" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="125" hits="1" branch="False" />
+                <line number="126" hits="1" branch="False" />
+                <line number="127" hits="1" branch="False" />
+                <line number="128" hits="5" branch="False" />
+              </lines>
+            </method>
+            <method name="Drive" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="132" hits="4" branch="False" />
+                <line number="133" hits="4" branch="False" />
+                <line number="135" hits="4" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="31" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="136" hits="1" branch="False" />
+                <line number="137" hits="1" branch="False" />
+                <line number="140" hits="3" branch="False" />
+                <line number="141" hits="3" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="27" branch="False" />
+                <line number="18" hits="27" branch="False" />
+                <line number="19" hits="27" branch="False" />
+                <line number="20" hits="27" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(System.String,System.String,System.Double,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="27" branch="False" />
+                <line number="23" hits="27" branch="False" />
+                <line number="24" hits="27" branch="False" />
+                <line number="25" hits="25" branch="False" />
+                <line number="26" hits="23" branch="False" />
+                <line number="27" hits="21" branch="False" />
+                <line number="28" hits="19" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="33" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="37" hits="27" branch="False" />
+            <line number="38" hits="27" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="43" hits="25" branch="False" />
+            <line number="44" hits="25" branch="False" />
+            <line number="50" hits="1" branch="False" />
+            <line number="51" hits="1" branch="False" />
+            <line number="52" hits="1" branch="False" />
+            <line number="54" hits="25" branch="False" />
+            <line number="55" hits="25" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="56" hits="2" branch="False" />
+            <line number="57" hits="2" branch="False" />
+            <line number="60" hits="23" branch="False" />
+            <line number="61" hits="23" branch="False" />
+            <line number="67" hits="7" branch="False" />
+            <line number="68" hits="7" branch="False" />
+            <line number="69" hits="7" branch="False" />
+            <line number="71" hits="23" branch="False" />
+            <line number="72" hits="23" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="18" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="73" hits="2" branch="False" />
+            <line number="74" hits="2" branch="False" />
+            <line number="77" hits="21" branch="False" />
+            <line number="78" hits="21" branch="False" />
+            <line number="84" hits="23" branch="False" />
+            <line number="85" hits="23" branch="False" />
+            <line number="86" hits="23" branch="False" />
+            <line number="88" hits="36" branch="False" />
+            <line number="89" hits="36" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="15" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="90" hits="0" branch="False" />
+            <line number="91" hits="0" branch="False" />
+            <line number="94" hits="36" branch="False" />
+            <line number="95" hits="36" branch="False" />
+            <line number="101" hits="9" branch="False" />
+            <line number="102" hits="9" branch="False" />
+            <line number="103" hits="9" branch="False" />
+            <line number="105" hits="21" branch="False" />
+            <line number="106" hits="21" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="18" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="107" hits="2" branch="False" />
+            <line number="108" hits="2" branch="False" />
+            <line number="111" hits="19" branch="False" />
+            <line number="112" hits="19" branch="False" />
+            <line number="116" hits="8" branch="False" />
+            <line number="117" hits="8" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="18" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="118" hits="3" branch="False" />
+            <line number="119" hits="3" branch="False" />
+            <line number="122" hits="5" branch="False" />
+            <line number="124" hits="5" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="63" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="125" hits="1" branch="False" />
+            <line number="126" hits="1" branch="False" />
+            <line number="127" hits="1" branch="False" />
+            <line number="128" hits="5" branch="False" />
+            <line number="132" hits="4" branch="False" />
+            <line number="133" hits="4" branch="False" />
+            <line number="135" hits="4" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="31" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="136" hits="1" branch="False" />
+            <line number="137" hits="1" branch="False" />
+            <line number="140" hits="3" branch="False" />
+            <line number="141" hits="3" branch="False" />
+            <line number="17" hits="27" branch="False" />
+            <line number="18" hits="27" branch="False" />
+            <line number="19" hits="27" branch="False" />
+            <line number="20" hits="27" branch="False" />
+            <line number="22" hits="27" branch="False" />
+            <line number="23" hits="27" branch="False" />
+            <line number="24" hits="27" branch="False" />
+            <line number="25" hits="25" branch="False" />
+            <line number="26" hits="23" branch="False" />
+            <line number="27" hits="21" branch="False" />
+            <line number="28" hits="19" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="CarManager.Tests" line-rate="0.9811" branch-rate="1" complexity="12">
+      <classes>
+        <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="CarManager.Tests.CarManagerTests" filename="source\repos\CSharp-OOP\UnitTesting\CarManager.Tests\CarManagerTests.cs" line-rate="1" branch-rate="1" complexity="11">
+          <methods>
+            <method name="SetUp" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="18" branch="False" />
+                <line number="14" hits="18" branch="False" />
+                <line number="15" hits="18" branch="False" />
+              </lines>
+            </method>
+            <method name="Ctor_ThrowException_WhenDataIsNotValid" signature="(System.String,System.String,System.Double,System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="27" hits="8" branch="False" />
+                <line number="28" hits="16" branch="False" />
+                <line number="29" hits="8" branch="False" />
+              </lines>
+            </method>
+            <method name="Ctor_CreateCar_WhenDataIsValid" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="33" hits="1" branch="False" />
+                <line number="34" hits="1" branch="False" />
+                <line number="35" hits="1" branch="False" />
+                <line number="36" hits="1" branch="False" />
+                <line number="37" hits="1" branch="False" />
+                <line number="39" hits="1" branch="False" />
+                <line number="41" hits="1" branch="False" />
+                <line number="42" hits="1" branch="False" />
+                <line number="43" hits="1" branch="False" />
+                <line number="44" hits="1" branch="False" />
+                <line number="45" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Refuel_ThrowException_WhenIsNegativeOrZero" signature="(System.Double)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="2" branch="False" />
+                <line number="52" hits="4" branch="False" />
+                <line number="53" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Refuel_IncreaseFuel_WhenValidAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="57" hits="1" branch="False" />
+                <line number="58" hits="1" branch="False" />
+                <line number="60" hits="1" branch="False" />
+                <line number="61" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Refuel_SetFuelToCapacity_WhenCapacityIsExceeded" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="1" branch="False" />
+                <line number="67" hits="1" branch="False" />
+                <line number="69" hits="1" branch="False" />
+                <line number="70" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Drive_ThrowException_WhenFuelIsZero" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="74" hits="1" branch="False" />
+                <line number="77" hits="2" branch="False" />
+                <line number="78" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Drive_DecreaseFuel_WhenValidDistance" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="82" hits="1" branch="False" />
+                <line number="83" hits="1" branch="False" />
+                <line number="84" hits="1" branch="False" />
+                <line number="86" hits="1" branch="False" />
+                <line number="87" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Drive_DecreaseFuelAmountToZero_WhenRequiredFuelIsEqualToFuelAmount" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="91" hits="1" branch="False" />
+                <line number="92" hits="1" branch="False" />
+                <line number="93" hits="1" branch="False" />
+                <line number="95" hits="1" branch="False" />
+                <line number="96" hits="1" branch="False" />
+                <line number="97" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="FuelAmount_ThrowException_WhenNegativeValue" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="101" hits="1" branch="False" />
+                <line number="102" hits="2" branch="False" />
+                <line number="103" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="FuelAmount_ThrowException_WhenNegative" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="107" hits="1" branch="False" />
+                <line number="108" hits="1" branch="False" />
+                <line number="109" hits="1" branch="False" />
+                <line number="111" hits="1" branch="False" />
+                <line number="112" hits="1" branch="False" />
+                <line number="114" hits="1" branch="False" />
+                <line number="115" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="18" branch="False" />
+            <line number="14" hits="18" branch="False" />
+            <line number="15" hits="18" branch="False" />
+            <line number="27" hits="8" branch="False" />
+            <line number="28" hits="16" branch="False" />
+            <line number="29" hits="8" branch="False" />
+            <line number="33" hits="1" branch="False" />
+            <line number="34" hits="1" branch="False" />
+            <line number="35" hits="1" branch="False" />
+            <line number="36" hits="1" branch="False" />
+            <line number="37" hits="1" branch="False" />
+            <line number="39" hits="1" branch="False" />
+            <line number="41" hits="1" branch="False" />
+            <line number="42" hits="1" branch="False" />
+            <line number="43" hits="1" branch="False" />
+            <line number="44" hits="1" branch="False" />
+            <line number="45" hits="1" branch="False" />
+            <line number="51" hits="2" branch="False" />
+            <line number="52" hits="4" branch="False" />
+            <line number="53" hits="2" branch="False" />
+            <line number="57" hits="1" branch="False" />
+            <line number="58" hits="1" branch="False" />
+            <line number="60" hits="1" branch="False" />
+            <line number="61" hits="1" branch="False" />
+            <line number="65" hits="1" branch="False" />
+            <line number="67" hits="1" branch="False" />
+            <line number="69" hits="1" branch="False" />
+            <line number="70" hits="1" branch="False" />
+            <line number="74" hits="1" branch="False" />
+            <line number="77" hits="2" branch="False" />
+            <line number="78" hits="1" branch="False" />
+            <line number="82" hits="1" branch="False" />
+            <line number="83" hits="1" branch="False" />
+            <line number="84" hits="1" branch="False" />
+            <line number="86" hits="1" branch="False" />
+            <line number="87" hits="1" branch="False" />
+            <line number="91" hits="1" branch="False" />
+            <line number="92" hits="1" branch="False" />
+            <line number="93" hits="1" branch="False" />
+            <line number="95" hits="1" branch="False" />
+            <line number="96" hits="1" branch="False" />
+            <line number="97" hits="1" branch="False" />
+            <line number="101" hits="1" branch="False" />
+            <line number="102" hits="2" branch="False" />
+            <line number="103" hits="1" branch="False" />
+            <line number="107" hits="1" branch="False" />
+            <line number="108" hits="1" branch="False" />
+            <line number="109" hits="1" branch="False" />
+            <line number="111" hits="1" branch="False" />
+            <line number="112" hits="1" branch="False" />
+            <line number="114" hits="1" branch="False" />
+            <line number="115" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
