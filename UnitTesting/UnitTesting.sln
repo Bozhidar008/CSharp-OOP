@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager", "CarManager\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarManager.Tests", "CarManager.Tests\CarManager.Tests.csproj", "{6B031E23-5398-4A08-B897-30D5FA71F084}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena", "FightingArena\FightingArena.csproj", "{1F6CADB1-2624-45C0-A5E3-D01A4558EEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingArena.Tests", "FightingArena.Tests\FightingArena.Tests.csproj", "{5C51FE48-9824-4D8C-86CA-5C6D9FA964D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6B031E23-5398-4A08-B897-30D5FA71F084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B031E23-5398-4A08-B897-30D5FA71F084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B031E23-5398-4A08-B897-30D5FA71F084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6CADB1-2624-45C0-A5E3-D01A4558EEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6CADB1-2624-45C0-A5E3-D01A4558EEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6CADB1-2624-45C0-A5E3-D01A4558EEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6CADB1-2624-45C0-A5E3-D01A4558EEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C51FE48-9824-4D8C-86CA-5C6D9FA964D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C51FE48-9824-4D8C-86CA-5C6D9FA964D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C51FE48-9824-4D8C-86CA-5C6D9FA964D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C51FE48-9824-4D8C-86CA-5C6D9FA964D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
