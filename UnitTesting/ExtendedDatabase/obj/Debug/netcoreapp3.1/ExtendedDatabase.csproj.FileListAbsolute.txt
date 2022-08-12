@@ -1,0 +1,10 @@
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp3.1\ExtendedDatabase.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp3.1\ExtendedDatabase.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\bin\Debug\netcoreapp3.1\ExtendedDatabase.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\ExtendedDatabase\obj\Debug\netcoreapp3.1\ExtendedDatabase.pdb

@@ -1,0 +1,10 @@
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\bojid\source\repos\CSharp-OOP\UnitTesting\Database\obj\Debug\netcoreapp3.1\Database.pdb
