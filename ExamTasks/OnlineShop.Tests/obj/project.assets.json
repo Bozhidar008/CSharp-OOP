@@ -974,14 +974,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "OnlineShop/1.0.0": {
+      "Computers/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/OnlineShop.dll": {}
+          "bin/placeholder/Computers.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OnlineShop.dll": {}
+          "bin/placeholder/Computers.dll": {}
         }
       }
     }
@@ -3967,19 +3967,19 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "OnlineShop/1.0.0": {
+    "Computers/1.0.0": {
       "type": "project",
-      "path": "../OnlineShop/OnlineShop.csproj",
-      "msbuildProject": "../OnlineShop/OnlineShop.csproj"
+      "path": "../Computers/Computers.csproj",
+      "msbuildProject": "../Computers/Computers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Computers >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
       "NUnit3TestAdapter >= 4.2.1",
-      "OnlineShop >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -3990,9 +3990,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
-      "projectName": "OnlineShop.Tests",
-      "projectPath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\Computers.Tests.csproj",
+      "projectName": "Computers.Tests",
+      "projectPath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\Computers.Tests.csproj",
       "packagesPath": "C:\\Users\\bojid\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\obj\\",
       "projectStyle": "PackageReference",
@@ -4016,8 +4016,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop\\OnlineShop.csproj": {
-              "projectPath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop\\OnlineShop.csproj"
+            "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\Computers\\Computers.csproj": {
+              "projectPath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\Computers\\Computers.csproj"
             }
           }
         }

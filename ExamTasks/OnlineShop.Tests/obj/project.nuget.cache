@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejRWZHqXtK576iVlYh/G5f2nShNEAKxDUrtAjcgtNRFqTaypjCUp13gbv8OnwpG2SshPlo0ZuaS5d5yktHWgvA==",
+  "dgSpecHash": "ITEurY174XCbj/9tsAFmoSp44I2EvpB9sicQPAHdZO0PxFzQY+veAJdqKcEZ25pg7ja0m4EvPSBPyKMp3VLoJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+  "projectFilePath": "C:\\Users\\bojid\\source\\repos\\CSharp-OOP\\ExamTasks\\OnlineShop.Tests\\Computers.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bojid\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\bojid\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
